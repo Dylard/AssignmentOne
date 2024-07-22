@@ -1,0 +1,11 @@
+
+
+We start the program
+    Declare variables for first name, last name, street address, city, and zip code
+        We declare variables to store them for future use
+    Assign values to each variable
+        We need to give the variables values
+    Print each variable on a new line
+        Print all variables to the console using system out println
+We end the program
+
